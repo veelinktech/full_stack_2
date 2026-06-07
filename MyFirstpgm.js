@@ -3,13 +3,24 @@ function disp()
   console.log("Welcome to JS")
 }
 
-function arithmetic()
-{
+function add(){
   console.log(5+10)
-  console.log(10-5)
-  console.log(10*5)
-  console.log(10/5)
+}
+
+function sub(){
+  console.log(5-10)
+}
+
+function mul(){
+  console.log(5*10)
+}
+
+function div(){
+  console.log(5/10)
 }
 
 disp()
-arithmetic()
+add()
+sub()
+mul()
+div()
