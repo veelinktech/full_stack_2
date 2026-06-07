@@ -1,11 +1,16 @@
 def disp():
   print("Welcome to python")
-
-def arithmetic():
-  print(10+5)
+def add():
+  print(20+5)
+def sub():
   print(10-5)
+def mul():
   print(10*5)
+def div():
   print(10/5)
 
 disp()
-arithmetic()
+add()
+sub()
+mul()
+div()
