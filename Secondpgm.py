@@ -1,0 +1,5 @@
+print("Welcome to python")
+print(10+5)
+print(10-5)
+print(10*5)
+print(10/5)
